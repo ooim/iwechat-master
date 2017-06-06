@@ -3,4 +3,8 @@
  */
 public class Test {
     private String test;
+
+    private Test(){
+        System.err.println("大水比");
+    }
 }
