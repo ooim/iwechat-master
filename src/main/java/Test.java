@@ -5,6 +5,6 @@ public class Test {
     private String test;
 
     private Test(){
-        System.err.println("大水比2");
+        System.err.println("曾飞跃是个傻逼大水比2");
     }
 }
