@@ -1,0 +1,1 @@
+spring:  datasource:    driverClassName: com.mysql.jdbc.Driver    url: jdbc:mysql://localhost:3307/test?useUnicode=true&characterEncoding=utf-8    username: root    password: root  application:    name: testserver:  port: 8080                    # 指定该Eureka实例的端口
