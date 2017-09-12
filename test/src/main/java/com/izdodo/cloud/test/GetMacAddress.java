@@ -136,6 +136,6 @@ public class GetMacAddress {
 
     //做个测试
     public static void main(String[] args) {
-        System.out.println(getMacAddress("220.181.111.148"));
+        System.out.println(getMacAddress("119.29.190.150"));
     }
 }
